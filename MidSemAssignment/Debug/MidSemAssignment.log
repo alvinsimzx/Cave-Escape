@@ -1,0 +1,21 @@
+﻿  CluesIterator.cpp
+  CorrectPassword.cpp
+  Deadman.cpp
+  Exploder.cpp
+  GameMap.cpp
+  GameMapIterator.cpp
+  HaveRing.cpp
+  Items.cpp
+  Monsters.cpp
+  NoRing.cpp
+  Player.cpp
+  Portal.cpp
+  PortalState.cpp
+  Weapons.cpp
+  Witch.cpp
+  main.cpp
+  Generating Code...
+C:\Users\Alvin\Desktop\CS Sem 3\Data Structure\COS30008_Project1_Prototype_101214747_Alvin Sim Zhong Xian\MidSemAssignment\MidSemAssignment\GameMapIterator.cpp(45): warning C4172: returning address of local variable or temporary: temp
+C:\Users\Alvin\Desktop\CS Sem 3\Data Structure\COS30008_Project1_Prototype_101214747_Alvin Sim Zhong Xian\MidSemAssignment\MidSemAssignment\GameMapIterator.cpp(28): warning C4172: returning address of local variable or temporary: temp
+C:\Users\Alvin\Desktop\CS Sem 3\Data Structure\COS30008_Project1_Prototype_101214747_Alvin Sim Zhong Xian\MidSemAssignment\MidSemAssignment\CluesIterator.cpp(32): warning C4172: returning address of local variable or temporary: ltemp
+  MidSemAssignment.vcxproj -> C:\Users\Alvin\Desktop\CS Sem 3\Data Structure\COS30008_Project1_Prototype_101214747_Alvin Sim Zhong Xian\MidSemAssignment\Debug\MidSemAssignment.exe
